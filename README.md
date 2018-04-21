@@ -2,12 +2,15 @@
 
 # Grazhdanskiy Shrift
 **Grazhdanskiy Shrift** is an attempt to revive the font, which altered the structure of the Russian alphabet by the reform of Peter the Great.
+For further information see the article of Vladimir Yefimov ["Civil Type and Kis Cyrillic"](https://typejournal.ru/en/articles/Civil-Type) and by the same author the article in Russian ["ДРАМАТИЧЕСКАЯ ИСТОРИЯ КИРИЛЛИЦЫ. ВЕЛИКИЙ ПЕТРОВСКИЙ ПЕРЕЛОМ"](https://www.paratype.ru/e-zine/issue04/peter1/peter1a.htm)
 
-### Acknowledgements
+Acknowledgements
+----------------
 
 If you make modifications be sure to add <code>your name</code> (N), <code>email</code> (if you have one) (E), <code>web-address</code> (if you have one) (W), <code>twitter handle</code> (if you have one) (T) and <code>description</code> (D).
 
-### Project Manager
+Project Manager
+---------------
 
 + N: Stefan Peev
 + E: context.bg@gmail.com
@@ -15,7 +18,8 @@ If you make modifications be sure to add <code>your name</code> (N), <code>email
 + T: https://twitter.com/localfonts
 + D: Project Manager and Designer
 
-### License
+License
+-------
 
 SIL Open Font License [OFL](documentation/OFL.txt)
 
@@ -23,7 +27,8 @@ Examples
 --------
 See [images](/images/) and [Gallery](/images/Gallery.md).
 
-### Local Fonts Project
+Local Fonts Project
+-------------------
 
 + [Pliska](https://github.com/StefanPeev/Pliska)
 + [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
