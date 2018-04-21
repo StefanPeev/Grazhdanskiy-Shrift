@@ -2,8 +2,11 @@
 
 # Grazhdanskiy Shrift
 **Grazhdanskiy Shrift** is an attempt to revive the font, which altered the structure of the Russian alphabet by the reform of Peter the Great.
-For further information you could read the article of Vladimir Yefimov ["Civil Type and Kis Cyrillic"](https://typejournal.ru/en/articles/Civil-Type) and by the same author the article in Russian ["ДРАМАТИЧЕСКАЯ ИСТОРИЯ КИРИЛЛИЦЫ. ВЕЛИКИЙ ПЕТРОВСКИЙ ПЕРЕЛОМ"](https://www.paratype.ru/e-zine/issue04/peter1/peter1a.htm).
-NOTE: The font Vollkorn is used for the missing glyphs in the project.
+For further information you could read the article of Vladimir Yefimov ["Civil Type and Kis Cyrillic"](https://typejournal.ru/en/articles/Civil-Type) and the article by the same author ["ДРАМАТИЧЕСКАЯ ИСТОРИЯ КИРИЛЛИЦЫ. ВЕЛИКИЙ ПЕТРОВСКИЙ ПЕРЕЛОМ"](https://www.paratype.ru/e-zine/issue04/peter1/peter1a.htm) (in Russian).
+
+NOTE: The font [Vollkorn](https://github.com/FAlthausen/Vollkorn-Typeface) is used for the missing in the project glyphs.
+
+The project is still in a draft. Any contributions are well-come and highly appreciated.
 
 Acknowledgements
 ----------------
