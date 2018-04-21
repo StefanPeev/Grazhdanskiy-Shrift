@@ -19,6 +19,10 @@ If you make modifications be sure to add <code>your name</code> (N), <code>email
 
 SIL Open Font License [OFL](documentation/OFL.txt)
 
+Examples
+--------
+See [images](/images/) and [Gallery](/images/Gallery.md).
+
 ### Local Fonts Project
 
 + [Pliska](https://github.com/StefanPeev/Pliska)
