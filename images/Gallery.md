@@ -6,4 +6,5 @@
 
 <img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/cyrillic_peter.jpg" />
 
+<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/GrazhdanskiyShrift_02.jpg" />
 
