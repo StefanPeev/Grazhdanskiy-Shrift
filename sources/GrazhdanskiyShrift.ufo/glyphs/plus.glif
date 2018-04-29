@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="550"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="501" y="283" type="line"/>
+      <point x="501" y="263"/>
+      <point x="500" y="247"/>
+      <point x="491" y="233" type="curve"/>
+      <point x="402" y="234"/>
+      <point x="359" y="234"/>
+      <point x="298" y="234" type="curve"/>
+      <point x="298" y="13" type="line"/>
+      <point x="289" y="7"/>
+      <point x="263" y="3"/>
+      <point x="248" y="3" type="curve"/>
+      <point x="249" y="71"/>
+      <point x="250" y="161"/>
+      <point x="250" y="234" type="curve"/>
+      <point x="186" y="234"/>
+      <point x="111" y="233"/>
+      <point x="49" y="232" type="curve"/>
+      <point x="49" y="246"/>
+      <point x="52" y="274"/>
+      <point x="58" y="283" type="curve"/>
+      <point x="250" y="283" type="line"/>
+      <point x="250" y="349"/>
+      <point x="250" y="397"/>
+      <point x="249" y="493" type="curve"/>
+      <point x="263" y="502"/>
+      <point x="278" y="503"/>
+      <point x="298" y="503" type="curve"/>
+      <point x="298" y="283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>234</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>483</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>493</integer>
+            <key>width</key>
+            <integer>10</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>250</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

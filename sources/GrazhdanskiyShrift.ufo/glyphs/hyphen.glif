@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="419"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="359" y="294" type="line"/>
+      <point x="359" y="273"/>
+      <point x="355" y="247"/>
+      <point x="346" y="229" type="curve"/>
+      <point x="273" y="229"/>
+      <point x="131" y="227"/>
+      <point x="60" y="225" type="curve"/>
+      <point x="60" y="248"/>
+      <point x="67" y="277"/>
+      <point x="76" y="294" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>229</integer>
+            <key>width</key>
+            <integer>65</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>60</integer>
+            <key>width</key>
+            <integer>299</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
