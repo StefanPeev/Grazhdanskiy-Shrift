@@ -20,8 +20,6 @@
 
 <img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/1091.jpg" />
 
-<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/H_719x690_01.jpg" />
-
 <img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/O_715x726_01.jpg" />
 
 <img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/P_752x1070_01.jpg" />
