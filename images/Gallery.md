@@ -20,15 +20,12 @@
 
 <img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/1091.jpg" />
 
-<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/O_715x726_01.jpg" />
+<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/uni0410_Grazhdanskiy_Model_01.png" />
 
-<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/P_752x1070_01.jpg" />
+<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/uni0411_Grazhdanskiy_Model_01.png" />
 
-<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/C_662x726_01.jpg" />
+<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/uni0412_Grazhdanskiy_Model_01.png" />
 
-<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/T_719x740_01.jpg" />
+<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/uni0413_Grazhdanskiy_Model_01.png" />
 
-<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/Grazhdanskiy_cyr_A_01.png" />
-
-<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/Grazhdanskiy_cyr_N_01.png" />
-
+<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/uni0416_Grazhdanskiy_Model_01.png" />
