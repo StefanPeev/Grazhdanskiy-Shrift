@@ -28,3 +28,7 @@
 
 + Азбуки, буквари, грамматики, словари XVI-XVII веков. 1500–1800. [Российская национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Advanced&tab=default_tab&indx=1&dum=true&srt=rank&vid=07NLR_VU1&frbg=&vl(1UIStartWith0)=contains&vl(freeText0)=%D0%90%D0%B7%D0%B1%D1%83%D0%BA%D0%B8,+%D0%B1%D1%83%D0%BA%D0%B2%D0%B0%D1%80%D0%B8,+%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8,+%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8+XVI-XVII+%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA)
 
++ Азбука гражданская с нравоучениями. 1710. [Президентская библиотека](https://www.prlib.ru/item/315769)
+
++ Азбука гражданская с нравоучениями. 1710. [Library of Congress. Мировая цифровая библиотека](https://www.wdl.org/ru/item/561/)
+
