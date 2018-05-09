@@ -8,25 +8,27 @@ languagesystem latn dflt;
 
 lookup ss01StyleSet1lookup0 {
   lookupflag 0;
-    sub \uni0410 by \uni0410.ss01 ;
-    sub \uni0411 by \uni0411.ss01 ;
+    sub \uni041D by \uni041D.ss01 ;
     sub \uni0412 by \uni0412.ss01 ;
     sub \uni0413 by \uni0413.ss01 ;
-    sub \uni0414 by \uni0414.ss01 ;
     sub \uni0415 by \uni0415.ss01 ;
     sub \uni0416 by \uni0416.ss01 ;
+    sub \uni0414 by \uni0414.ss01 ;
+    sub \uni0410 by \uni0410.ss01 ;
+    sub \uni0411 by \uni0411.ss01 ;
+    sub \uni041A by \uni041A.ss01 ;
+    sub \uni041E by \uni041E.ss01 ;
     sub \uni0417 by \uni0417.ss01 ;
     sub \uni0418 by \uni0418.ss01 ;
-    sub \uni0419 by \uni0419.ss01 ;
-    sub \uni041A by \uni041A.ss01 ;
     sub \uni041B by \uni041B.ss01 ;
     sub \uni041C by \uni041C.ss01 ;
-    sub \uni041D by \uni041D.ss01 ;
-    sub \uni041E by \uni041E.ss01 ;
-    sub \uni041F by \uni041F.ss01 ;
+    sub \uni0445 by \uni0445.ss01 ;
+    sub \uni0419 by \uni0419.ss01 ;
     sub \uni0420 by \uni0420.ss01 ;
-    sub \uni0421 by \uni0421.ss01 ;
     sub \uni0422 by \uni0422.ss01 ;
+    sub \uni043D by \uni043D.ss01 ;
+    sub \uni041F by \uni041F.ss01 ;
+    sub \uni0421 by \uni0421.ss01 ;
     sub \uni0423 by \uni0423.ss01 ;
     sub \uni0424 by \uni0424.ss01 ;
     sub \uni0425 by \uni0425.ss01 ;
@@ -53,7 +55,6 @@ lookup ss01StyleSet1lookup0 {
     sub \uni043A by \uni043A.ss01 ;
     sub \uni043B by \uni043B.ss01 ;
     sub \uni043C by \uni043C.ss01 ;
-    sub \uni043D by \uni043D.ss01 ;
     sub \uni043E by \uni043E.ss01 ;
     sub \uni043F by \uni043F.ss01 ;
     sub \uni0440 by \uni0440.ss01 ;
@@ -61,7 +62,6 @@ lookup ss01StyleSet1lookup0 {
     sub \uni0442 by \uni0442.ss01 ;
     sub \uni0443 by \uni0443.ss01 ;
     sub \uni0444 by \uni0444.ss01 ;
-    sub \uni0445 by \uni0445.ss01 ;
     sub \uni0446 by \uni0446.ss01 ;
     sub \uni0447 by \uni0447.ss01 ;
     sub \uni0448 by \uni0448.ss01 ;
@@ -94,34 +94,35 @@ feature ss01 {
 } ss01;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
-	\quotesingle \parenleft \parenright \asterisk \plus \comma \hyphen \period 
-	\slash \zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon 
-	\less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T 
-	\U \V \W \X \Y \Z \bracketleft \backslash \bracketright \asciicircum \underscore 
-	\grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \braceleft \bar 
-	\braceright \asciitilde \uni0410 \uni0411 \uni0412 \uni0413 \uni0414 \uni0415 
-	\uni0416 \uni0417 \uni0418 \uni0419 \uni041A \uni041B \uni041C \uni041D \uni041E 
-	\uni041F \uni0420 \uni0421 \uni0422 \uni0423 \uni0424 \uni0425 \uni0426 \uni0427 
-	\uni0428 \uni0429 \uni042A \uni042B \uni042C \uni042D \uni042E \uni042F \uni0430 
-	\uni0431 \uni0432 \uni0433 \uni0434 \uni0435 \uni0436 \uni0437 \uni0438 \uni0439 
-	\uni043A \uni043B \uni043C \uni043D \uni043E \uni043F \uni0440 \uni0441 \uni0442 
-	\uni0443 \uni0444 \uni0445 \uni0446 \uni0447 \uni0448 \uni0449 \uni044A \uni044B 
-	\uni044C \uni044D \uni044E \uni044F \uni0463 \uni0462 \uni0472 \uni0473 
-	\uni0410.ss01 \uni0411.ss01 \uni0412.ss01 \uni0413.ss01 \uni0414.ss01 
-	\uni0415.ss01 \uni0416.ss01 \uni0417.ss01 \uni0418.ss01 \uni0419.ss01 
-	\uni041A.ss01 \uni041B.ss01 \uni041C.ss01 \uni041D.ss01 \uni041E.ss01 
-	\uni041F.ss01 \uni0420.ss01 \uni0421.ss01 \uni0422.ss01 \uni0423.ss01 
-	\uni0424.ss01 \uni0425.ss01 \uni0426.ss01 \uni0427.ss01 \uni0428.ss01 
-	\uni0429.ss01 \uni042A.ss01 \uni042B.ss01 \uni042C.ss01 \uni042D.ss01 
-	\uni042E.ss01 \uni042F.ss01 \uni0430.ss01 \uni0431.ss01 \uni0432.ss01 
-	\uni0433.ss01 \uni0434.ss01 \uni0435.ss01 \uni0436.ss01 \uni0437.ss01 
-	\uni0438.ss01 \uni0439.ss01 \uni043A.ss01 \uni043B.ss01 \uni043C.ss01 
-	\uni043D.ss01 \uni043E.ss01 \uni043F.ss01 \uni0440.ss01 \uni0441.ss01 
-	\uni0442.ss01 \uni0443.ss01 \uni0444.ss01 \uni0445.ss01 \uni0446.ss01 
-	\uni0447.ss01 \uni0448.ss01 \uni0449.ss01 \uni044A.ss01 \uni044B.ss01 
-	\uni044C.ss01 \uni044D.ss01 \uni044E.ss01 \uni044F.ss01 \uni0463.ss01 
-	\uni0462.ss01 \uni0472.ss01 \uni0473.ss01 ];
+@GDEF_Simple = [\uni041D \uni0412 \uni0413 \uni0415 \uni0416 \uni0414 \uni0410 
+	\uni0411 \uni041A \uni041E \uni0417 \uni0418 \uni041B \uni041C \uni0445 \exclam 
+	\quotedbl \numbersign \dollar \percent \ampersand \quotesingle \parenleft 
+	\parenright \asterisk \plus \comma \hyphen \period \slash \zero \one \two \three 
+	\four \five \six \seven \eight \nine \colon \semicolon \less \equal \greater 
+	\question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z 
+	\bracketleft \backslash \bracketright \asciicircum \underscore \grave \a \b \c \d 
+	\e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \braceleft \bar \braceright 
+	\asciitilde \space \uni0419 \uni0420 \uni0422 \uni043D \uni041F \uni0421 
+	\uni0423 \uni0424 \uni0425 \uni0426 \uni0427 \uni0428 \uni0429 \uni042A \uni042B 
+	\uni042C \uni042D \uni042E \uni042F \uni0430 \uni0431 \uni0432 \uni0433 \uni0434 
+	\uni0435 \uni0436 \uni0437 \uni0438 \uni0439 \uni043A \uni043B \uni043C \uni043E 
+	\uni043F \uni0440 \uni0441 \uni0442 \uni0443 \uni0444 \uni0446 \uni0447 \uni0448 
+	\uni0449 \uni044A \uni044B \uni044C \uni044D \uni044E \uni044F \uni0463 \uni0462 
+	\uni0472 \uni0473 \uni0410.ss01 \uni0411.ss01 \uni0412.ss01 \uni0413.ss01 
+	\uni0414.ss01 \uni0415.ss01 \uni0416.ss01 \uni0417.ss01 \uni0418.ss01 
+	\uni0419.ss01 \uni041A.ss01 \uni041B.ss01 \uni041C.ss01 \uni041D.ss01 
+	\uni041E.ss01 \uni041F.ss01 \uni0420.ss01 \uni0421.ss01 \uni0422.ss01 
+	\uni0423.ss01 \uni0424.ss01 \uni0425.ss01 \uni0426.ss01 \uni0427.ss01 
+	\uni0428.ss01 \uni0429.ss01 \uni042A.ss01 \uni042B.ss01 \uni042C.ss01 
+	\uni042D.ss01 \uni042E.ss01 \uni042F.ss01 \uni0430.ss01 \uni0431.ss01 
+	\uni0432.ss01 \uni0433.ss01 \uni0434.ss01 \uni0435.ss01 \uni0436.ss01 
+	\uni0437.ss01 \uni0438.ss01 \uni0439.ss01 \uni043A.ss01 \uni043B.ss01 
+	\uni043C.ss01 \uni043D.ss01 \uni043E.ss01 \uni043F.ss01 \uni0440.ss01 
+	\uni0441.ss01 \uni0442.ss01 \uni0443.ss01 \uni0444.ss01 \uni0445.ss01 
+	\uni0446.ss01 \uni0447.ss01 \uni0448.ss01 \uni0449.ss01 \uni044A.ss01 
+	\uni044B.ss01 \uni044C.ss01 \uni044D.ss01 \uni044E.ss01 \uni044F.ss01 
+	\uni0463.ss01 \uni0462.ss01 \uni0472.ss01 \uni0473.ss01 \uni0405 \uni0406 
+	\uni0456 \dieresis \uni0308 \uni0451 \uni0401 \uni0457 \dotlessi ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

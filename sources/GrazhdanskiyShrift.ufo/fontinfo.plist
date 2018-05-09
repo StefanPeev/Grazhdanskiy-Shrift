@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<integer>800</integer>
-	<key>capHeight</key>
-	<integer>690</integer>
-	<key>copyright</key>
-	<string>Copyright (c) 2018, Context</string>
-	<key>descender</key>
-	<integer>-200</integer>
-	<key>familyName</key>
-	<string>Grazhdanskiy Shrift</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
-	<key>note</key>
-	<string></string>
-	<key>openTypeHeadCreated</key>
-	<string>2018/04/19 14:23:20</string>
-	<key>openTypeHheaAscender</key>
-	<integer>1020</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-474</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>90</integer>
-	<key>openTypeNameLicense</key>
-	<string>Copyright (c) 2018, Context (&lt;https://localfonts.eu|context.bg@gmail.com&gt;),
+  <dict>
+    <key>familyName</key>
+    <string>Grazhdanskiy Shrift</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>styleMapFamilyName</key>
+    <string>Grazhdanskiy Shrift</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2018, Stefan Peev. Context Ltd.</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>ascender</key>
+    <integer>800</integer>
+    <key>descender</key>
+    <integer>-200</integer>
+    <key>italicAngle</key>
+    <real>0</real>
+    <key>note</key>
+    <string>2018-4-19: Created with FontForge (http://fontforge.org)</string>
+    <key>openTypeHeadCreated</key>
+    <string>2018/04/19 14:23:20</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1020</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-474</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>90</integer>
+    <key>openTypeNameLicense</key>
+    <string>Copyright (c) 2018, Stefan Peev. Context Ltd. (&lt;https://localfonts.eu|context.bg@gmail.com&gt;),
 with Reserved Font Name Grazhdanskiy Shrift.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -119,139 +129,71 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.</string>
-	<key>openTypeNameLicenseURL</key>
-	<string>http://scripts.sil.org/OFL</string>
-	<key>openTypeNameUniqueID</key>
-	<string>Context : Grazhdanskiy Shrift : 29-4-2018</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1.000</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-		<integer>2</integer>
-	</array>
-	<key>openTypeOS2FamilyClass</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
-	<key>openTypeOS2Panose</key>
-	<array>
-		<integer>2</integer>
-		<integer>0</integer>
-		<integer>5</integer>
-		<integer>3</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
-	<key>openTypeOS2StrikeoutPosition</key>
-	<integer>258</integer>
-	<key>openTypeOS2StrikeoutSize</key>
-	<integer>49</integer>
-	<key>openTypeOS2SubscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SubscriptXSize</key>
-	<integer>650</integer>
-	<key>openTypeOS2SubscriptYOffset</key>
-	<integer>140</integer>
-	<key>openTypeOS2SubscriptYSize</key>
-	<integer>699</integer>
-	<key>openTypeOS2SuperscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>650</integer>
-	<key>openTypeOS2SuperscriptYOffset</key>
-	<integer>479</integer>
-	<key>openTypeOS2SuperscriptYSize</key>
-	<integer>699</integer>
-	<key>openTypeOS2Type</key>
-	<array/>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>800</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-200</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>90</integer>
-	<key>openTypeOS2UnicodeRanges</key>
-	<array>
-		<integer>0</integer>
-		<integer>9</integer>
-	</array>
-	<key>openTypeOS2VendorID</key>
-	<string>Cont</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>openTypeOS2WinAscent</key>
-	<integer>1020</integer>
-	<key>openTypeOS2WinDescent</key>
-	<integer>474</integer>
-	<key>postscriptBlueValues</key>
-	<array>
-		<integer>-18</integer>
-		<integer>0</integer>
-		<integer>384</integer>
-		<integer>408</integer>
-		<integer>690</integer>
-		<integer>708</integer>
-	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-		<integer>-18</integer>
-		<integer>18</integer>
-		<integer>672</integer>
-		<integer>708</integer>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array/>
-	<key>postscriptFontName</key>
-	<string>GrazhdanskiyShrift</string>
-	<key>postscriptFullName</key>
-	<string>Grazhdanskiy Shrift</string>
-	<key>postscriptOtherBlues</key>
-	<array>
-		<integer>-324</integer>
-		<integer>-245</integer>
-	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-		<integer>37</integer>
-		<integer>43</integer>
-		<integer>49</integer>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-		<integer>51</integer>
-		<integer>70</integer>
-		<integer>77</integer>
-		<integer>85</integer>
-		<integer>90</integer>
-		<integer>94</integer>
-		<integer>103</integer>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-100</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>50</integer>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
-	<key>styleMapFamilyName</key>
-	<string>Grazhdanskiy Shrift</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
-	<key>styleName</key>
-	<string>Regular</string>
-	<key>unitsPerEm</key>
-	<integer>1000</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
-	<integer>0</integer>
-	<key>xHeight</key>
-	<integer>384</integer>
-</dict>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 1.000</string>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>Cont</string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>800</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-200</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>90</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1020</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>474</integer>
+    <key>postscriptFontName</key>
+    <string>GrazhdanskiyShrift</string>
+    <key>postscriptFullName</key>
+    <string>Grazhdanskiy Shrift</string>
+    <key>postscriptWeightName</key>
+    <string>Regular</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-10</integer>
+      <integer>0</integer>
+      <integer>384</integer>
+      <integer>408</integer>
+      <integer>700</integer>
+      <integer>710</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-324</integer>
+      <integer>-245</integer>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array>
+      <integer>0</integer>
+      <integer>38</integer>
+      <integer>662</integer>
+      <integer>700</integer>
+    </array>
+    <key>postscriptBlueFuzz</key>
+    <integer>1</integer>
+    <key>postscriptBlueShift</key>
+    <integer>7</integer>
+    <key>postscriptBlueScale</key>
+    <real>0.039625</real>
+    <key>postscriptForceBold</key>
+    <false/>
+  </dict>
 </plist>
