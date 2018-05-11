@@ -1,8 +1,14 @@
 # Sources
 
++ **Римплер, Георг (1636-1683).  [Римплерова манира о строении крепостей]. - Москва : [Московский Печатный двор], [дек. 1708].** - 54, [4] с.; 8° (15 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341376#?page=1)
+
++ **Римплер, Георг (1636-1683). Римплерова манира о строении крепостеи. - [Москва] : [Московский Печатный двор], [янв.-февр. 1709].** - 27, [1] с., [8] л. черт.; 2° (31 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341378#?page=1)
+
 + **Азбука гражданская с нравоучениями. 1710.** [Президентская библиотека](https://www.prlib.ru/item/315769)
 
 + **Азбука гражданская с нравоучениями. 1710.** [Library of Congress. Мировая цифровая библиотека](https://www.wdl.org/ru/item/561/)
+
++ **Географиа или Краткое земнаго круга описание. / Напечатано повелением царскаго величества в типографии Московскои. - [Москва] : [Московский Печатный двор], Март 1710.** - [2], 106, 21, [1] с. [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341394#?page=1)
 
 + **Ведомости. 1710, №11/12 (31 мая) : 1710, №11/12 (31 мая). 1710.** [Российская национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/display.do?tabs=viewOnlineTab&gathStatTab=true&ct=display&fn=search&doc=07NLR_LMS010106475&indx=86&recIds=07NLR_LMS010106475&recIdxs=5&elementId=5&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&rfnGrpCounter=1&dscnt=0&vl(1UIStartWith0)=contains&vid=07NLR_VU1&fctV=online_resources&fctV=%5B1700+TO+1730%5D&mode=Advanced&rfnGrp=show_only&rfnGrp=1&tab=default_tab&srt=rank&fctN=facet_tlevel&fctN=facet_searchcreationdate&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&dum=true&vl(freeText0)=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D1%81%D1%82%D0%B8&dstmp=1525241478738)
 
