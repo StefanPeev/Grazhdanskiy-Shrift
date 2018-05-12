@@ -10,6 +10,8 @@
 
 <img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/Geometria-1708.jpg" />
 
+<img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/QA_Grazhdanskiy_Shrift_04.jpg" />
+
 <img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/cyrillic_peter.jpg" />
 
 <img src="https://github.com/StefanPeev/Grazhdanskiy-Shrift/blob/master/images/14dae9b62a82.jpg" />
