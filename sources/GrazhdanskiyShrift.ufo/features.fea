@@ -78,6 +78,48 @@ lookup ss01StyleSet1lookup0 {
     sub \uni0473 by \uni0473.ss01 ;
 } ss01StyleSet1lookup0;
 
+lookup ss02StyleSet2lookup1 {
+  lookupflag 0;
+    sub \uni0431 by \uni0431.ss02 ;
+    sub \uni0442 by \uni0442.ss02 ;
+} ss02StyleSet2lookup1;
+
+lookup ss03StyleSet3lookup2 {
+  lookupflag 0;
+    sub \uni0445 by \uni0445.ss03 ;
+    sub \uni043D by \uni043D.ss03 ;
+    sub \uni0430 by \uni0430.ss03 ;
+    sub \uni0431 by \uni0431.ss03 ;
+    sub \uni0432 by \uni0432.ss03 ;
+    sub \uni0433 by \uni0433.ss03 ;
+    sub \uni0434 by \uni0434.ss03 ;
+    sub \uni0435 by \uni0435.ss03 ;
+    sub \uni0436 by \uni0436.ss03 ;
+    sub \uni0437 by \uni0437.ss03 ;
+    sub \uni0438 by \uni0438.ss03 ;
+    sub \uni0439 by \uni0439.ss03 ;
+    sub \uni043A by \uni043A.ss03 ;
+    sub \uni043B by \uni043B.ss03 ;
+    sub \uni043C by \uni043C.ss03 ;
+    sub \uni043E by \uni043E.ss03 ;
+    sub \uni043F by \uni043F.ss03 ;
+    sub \uni0440 by \uni0440.ss03 ;
+    sub \uni0441 by \uni0441.ss03 ;
+    sub \uni0442 by \uni0442.ss03 ;
+    sub \uni0443 by \uni0443.ss03 ;
+    sub \uni0444 by \uni0444.ss03 ;
+    sub \uni0446 by \uni0446.ss03 ;
+    sub \uni0447 by \uni0447.ss03 ;
+    sub \uni0448 by \uni0448.ss03 ;
+    sub \uni0449 by \uni0449.ss03 ;
+    sub \uni044A by \uni044A.ss03 ;
+    sub \uni044B by \uni044B.ss03 ;
+    sub \uni044C by \uni044C.ss03 ;
+    sub \uni044D by \uni044D.ss03 ;
+    sub \uni044E by \uni044E.ss03 ;
+    sub \uni044F by \uni044F.ss03 ;
+} ss03StyleSet3lookup2;
+
 feature ss01 {
 
  script DFLT;
@@ -92,6 +134,36 @@ feature ss01 {
      language dflt ;
       lookup ss01StyleSet1lookup0;
 } ss01;
+
+feature ss02 {
+
+ script DFLT;
+     language dflt ;
+      lookup ss02StyleSet2lookup1;
+
+ script cyrl;
+     language dflt ;
+      lookup ss02StyleSet2lookup1;
+
+ script latn;
+     language dflt ;
+      lookup ss02StyleSet2lookup1;
+} ss02;
+
+feature ss03 {
+
+ script DFLT;
+     language dflt ;
+      lookup ss03StyleSet3lookup2;
+
+ script cyrl;
+     language dflt ;
+      lookup ss03StyleSet3lookup2;
+
+ script latn;
+     language dflt ;
+      lookup ss03StyleSet3lookup2;
+} ss03;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\uni041D \uni0412 \uni0413 \uni0415 \uni0416 \uni0414 \uni0410 
@@ -122,7 +194,15 @@ feature ss01 {
 	\uni0446.ss01 \uni0447.ss01 \uni0448.ss01 \uni0449.ss01 \uni044A.ss01 
 	\uni044B.ss01 \uni044C.ss01 \uni044D.ss01 \uni044E.ss01 \uni044F.ss01 
 	\uni0463.ss01 \uni0462.ss01 \uni0472.ss01 \uni0473.ss01 \uni0405 \uni0406 
-	\uni0456 \dieresis \uni0308 \uni0451 \uni0401 \uni0457 \dotlessi ];
+	\uni0456 \dieresis \uni0308 \uni0451 \uni0401 \uni0457 \dotlessi \uni0407 
+	\uni0455 \uni00A0 \uni0431.ss02 \uni0000 \uni0442.ss02 \uni0430.ss03 
+	\uni0431.ss03 \uni0432.ss03 \uni0433.ss03 \uni0434.ss03 \uni0435.ss03 
+	\uni0436.ss03 \uni0437.ss03 \uni0438.ss03 \uni0439.ss03 \uni043A.ss03 
+	\uni043B.ss03 \uni043C.ss03 \uni043D.ss03 \uni043E.ss03 \uni043F.ss03 
+	\uni0440.ss03 \uni0441.ss03 \uni0442.ss03 \uni0443.ss03 \uni0444.ss03 
+	\uni0445.ss03 \uni0446.ss03 \uni0447.ss03 \uni0448.ss03 \uni0449.ss03 
+	\uni044A.ss03 \uni044B.ss03 \uni044C.ss03 \uni044D.ss03 \uni044E.ss03 
+	\uni044F.ss03 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

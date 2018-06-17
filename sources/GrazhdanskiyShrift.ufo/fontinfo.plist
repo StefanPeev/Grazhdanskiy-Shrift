@@ -29,9 +29,9 @@
     <key>openTypeHeadCreated</key>
     <string>2018/04/19 14:23:20</string>
     <key>openTypeHheaAscender</key>
-    <integer>1020</integer>
+    <integer>1040</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-474</integer>
+    <integer>-445</integer>
     <key>openTypeHheaLineGap</key>
     <integer>90</integer>
     <key>openTypeNameLicense</key>
@@ -153,9 +153,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2TypoLineGap</key>
     <integer>90</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1020</integer>
+    <integer>1040</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>474</integer>
+    <integer>445</integer>
     <key>postscriptFontName</key>
     <string>GrazhdanskiyShrift</string>
     <key>postscriptFullName</key>
@@ -170,8 +170,8 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <array>
       <integer>-10</integer>
       <integer>0</integer>
-      <integer>384</integer>
-      <integer>408</integer>
+      <integer>396</integer>
+      <integer>406</integer>
       <integer>700</integer>
       <integer>710</integer>
     </array>
