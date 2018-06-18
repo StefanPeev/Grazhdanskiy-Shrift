@@ -86,8 +86,40 @@ lookup ss02StyleSet2lookup1 {
 
 lookup ss03StyleSet3lookup2 {
   lookupflag 0;
+    sub \uni041D by \uni041D.ss03 ;
+    sub \uni0412 by \uni0412.ss03 ;
+    sub \uni0413 by \uni0413.ss03 ;
+    sub \uni0415 by \uni0415.ss03 ;
+    sub \uni0416 by \uni0416.ss03 ;
+    sub \uni0414 by \uni0414.ss03 ;
+    sub \uni0410 by \uni0410.ss03 ;
+    sub \uni0411 by \uni0411.ss03 ;
+    sub \uni041A by \uni041A.ss03 ;
+    sub \uni041E by \uni041E.ss03 ;
+    sub \uni0417 by \uni0417.ss03 ;
+    sub \uni0418 by \uni0418.ss03 ;
+    sub \uni041B by \uni041B.ss03 ;
+    sub \uni041C by \uni041C.ss03 ;
     sub \uni0445 by \uni0445.ss03 ;
+    sub \uni0419 by \uni0419.ss03 ;
+    sub \uni0420 by \uni0420.ss03 ;
+    sub \uni0422 by \uni0422.ss03 ;
     sub \uni043D by \uni043D.ss03 ;
+    sub \uni041F by \uni041F.ss03 ;
+    sub \uni0421 by \uni0421.ss03 ;
+    sub \uni0423 by \uni0423.ss03 ;
+    sub \uni0424 by \uni0424.ss03 ;
+    sub \uni0425 by \uni0425.ss03 ;
+    sub \uni0426 by \uni0426.ss03 ;
+    sub \uni0427 by \uni0427.ss03 ;
+    sub \uni0428 by \uni0428.ss03 ;
+    sub \uni0429 by \uni0429.ss03 ;
+    sub \uni042A by \uni042A.ss03 ;
+    sub \uni042B by \uni042B.ss03 ;
+    sub \uni042C by \uni042C.ss03 ;
+    sub \uni042D by \uni042D.ss03 ;
+    sub \uni042E by \uni042E.ss03 ;
+    sub \uni042F by \uni042F.ss03 ;
     sub \uni0430 by \uni0430.ss03 ;
     sub \uni0431 by \uni0431.ss03 ;
     sub \uni0432 by \uni0432.ss03 ;
@@ -195,14 +227,20 @@ feature ss03 {
 	\uni044B.ss01 \uni044C.ss01 \uni044D.ss01 \uni044E.ss01 \uni044F.ss01 
 	\uni0463.ss01 \uni0462.ss01 \uni0472.ss01 \uni0473.ss01 \uni0405 \uni0406 
 	\uni0456 \dieresis \uni0308 \uni0451 \uni0401 \uni0457 \dotlessi \uni0407 
-	\uni0455 \uni00A0 \uni0431.ss02 \uni0000 \uni0442.ss02 \uni0430.ss03 
-	\uni0431.ss03 \uni0432.ss03 \uni0433.ss03 \uni0434.ss03 \uni0435.ss03 
-	\uni0436.ss03 \uni0437.ss03 \uni0438.ss03 \uni0439.ss03 \uni043A.ss03 
-	\uni043B.ss03 \uni043C.ss03 \uni043D.ss03 \uni043E.ss03 \uni043F.ss03 
-	\uni0440.ss03 \uni0441.ss03 \uni0442.ss03 \uni0443.ss03 \uni0444.ss03 
-	\uni0445.ss03 \uni0446.ss03 \uni0447.ss03 \uni0448.ss03 \uni0449.ss03 
-	\uni044A.ss03 \uni044B.ss03 \uni044C.ss03 \uni044D.ss03 \uni044E.ss03 
-	\uni044F.ss03 ];
+	\uni0455 \uni00A0 \uni0431.ss02 \uni0442.ss02 \uni0430.ss03 \uni0431.ss03 
+	\uni0432.ss03 \uni0433.ss03 \uni0434.ss03 \uni0435.ss03 \uni0436.ss03 
+	\uni0437.ss03 \uni0438.ss03 \uni0439.ss03 \uni043A.ss03 \uni043B.ss03 
+	\uni043C.ss03 \uni043D.ss03 \uni043E.ss03 \uni043F.ss03 \uni0440.ss03 
+	\uni0441.ss03 \uni0442.ss03 \uni0443.ss03 \uni0444.ss03 \uni0445.ss03 
+	\uni0446.ss03 \uni0447.ss03 \uni0448.ss03 \uni0449.ss03 \uni044A.ss03 
+	\uni044B.ss03 \uni044C.ss03 \uni044D.ss03 \uni044E.ss03 \uni044F.ss03 
+	\uni0410.ss03 \uni0411.ss03 \uni0412.ss03 \uni0413.ss03 \uni0414.ss03 
+	\uni0415.ss03 \uni0416.ss03 \uni0417.ss03 \uni0418.ss03 \uni0419.ss03 
+	\uni041A.ss03 \uni041B.ss03 \uni041C.ss03 \uni041D.ss03 \uni041E.ss03 
+	\uni041F.ss03 \uni0420.ss03 \uni0421.ss03 \uni0422.ss03 \uni0423.ss03 
+	\uni0424.ss03 \uni0425.ss03 \uni0426.ss03 \uni0427.ss03 \uni0428.ss03 
+	\uni0429.ss03 \uni042A.ss03 \uni042B.ss03 \uni042C.ss03 \uni042D.ss03 
+	\uni042E.ss03 \uni042F.ss03 \uni0000 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

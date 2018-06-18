@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0439.ss03" format="1">
-  <advance width="332"/>
+  <advance width="310"/>
   <outline>
-    <component base="uni0438" xOffset="0.00339844"/>
+    <component base="uni0438" xOffset="-9.9966"/>
   </outline>
   <lib>
     <dict>
@@ -27,13 +27,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>379</integer>
+            <integer>369</integer>
             <key>width</key>
             <integer>140</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>414</integer>
+            <integer>404</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
