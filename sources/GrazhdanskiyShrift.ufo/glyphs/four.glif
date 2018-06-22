@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="597"/>
+  <advance width="524"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="307" y="384" type="line"/>
-      <point x="390" y="384" type="line"/>
-      <point x="399" y="-179" type="line"/>
-      <point x="294" y="-179" type="line"/>
+      <point x="270" y="384" type="line"/>
+      <point x="343" y="384" type="line"/>
+      <point x="352" y="-220" type="line"/>
+      <point x="257" y="-220" type="line"/>
     </contour>
     <contour>
-      <point x="128" y="53" type="line"/>
-      <point x="147" y="77" type="line"/>
-      <point x="158" y="77" type="line"/>
-      <point x="481" y="77" type="line"/>
-      <point x="481" y="7" type="line"/>
-      <point x="128" y="7" type="line"/>
+      <point x="60" y="36" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="91" y="60" type="line"/>
+      <point x="434" y="60" type="line"/>
+      <point x="434" y="-10" type="line"/>
+      <point x="60" y="-10" type="line"/>
     </contour>
     <contour>
-      <point x="307" y="384" type="line"/>
-      <point x="351" y="384" type="line"/>
-      <point x="171" y="77" type="line"/>
-      <point x="172" y="7" type="line"/>
-      <point x="128" y="53" type="line"/>
-      <point x="127" y="53" type="line"/>
-    </contour>
-    <contour>
-      <point x="311" y="-108" type="line"/>
-      <point x="422" y="-108" type="line"/>
-      <point x="422" y="-179" type="line"/>
-      <point x="311" y="-179" type="line"/>
+      <point x="270" y="384" type="line"/>
+      <point x="314" y="384" type="line"/>
+      <point x="113" y="60" type="line"/>
+      <point x="113" y="-10" type="line"/>
+      <point x="60" y="36" type="line"/>
+      <point x="60" y="36" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +55,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>337</integer>
+            <integer>290</integer>
             <key>width</key>
             <integer>94</integer>
           </dict>
