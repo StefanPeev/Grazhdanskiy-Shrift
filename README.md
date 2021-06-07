@@ -2,7 +2,7 @@
 
 # Grazhdanskiy Shrift
 **Grazhdanskiy Shrift** is an attempt to revive the font, which altered the structure of the Russian alphabet by the reform of Peter the Great.
-For further information read the articles of Vladimir Yefimov ["Civil Type and Kis Cyrillic"](https://typejournal.ru/en/articles/Civil-Type) and ["ДРАМАТИЧЕСКАЯ ИСТОРИЯ КИРИЛЛИЦЫ. ВЕЛИКИЙ ПЕТРОВСКИЙ ПЕРЕЛОМ"](https://www.paratype.ru/e-zine/issue04/peter1/peter1a.htm). See also the article of Юрий Герчук ["Кириллица в русской культуре"](https://typejournal.ru/articles/Cyrillic-in-Russian-Culture?fbclid=IwAR2JiNwfSVeK3t-v5gFIN8ZWnyav6P3E1xdYaS9IoK5lYxcr2X3t8Vxcfao).
+For further information read the book of A. G. Shitsgal [Шицгал А. Г. Русский гражданский шрифт. 1708–1958. M., „Искусство“, 1959](https://bibliotekus.artlebedev.ru/books/russkiy-grazhdanskiy-shrift/), the articles of Vladimir Yefimov ["Civil Type and Kis Cyrillic"](https://typejournal.ru/en/articles/Civil-Type) and ["ДРАМАТИЧЕСКАЯ ИСТОРИЯ КИРИЛЛИЦЫ. ВЕЛИКИЙ ПЕТРОВСКИЙ ПЕРЕЛОМ"](https://www.paratype.ru/e-zine/issue04/peter1/peter1a.htm). See also the article of Юрий Герчук ["Кириллица в русской культуре"](https://typejournal.ru/articles/Cyrillic-in-Russian-Culture?fbclid=IwAR2JiNwfSVeK3t-v5gFIN8ZWnyav6P3E1xdYaS9IoK5lYxcr2X3t8Vxcfao).
 
 NOTE: The font [Vollkorn](https://github.com/FAlthausen/Vollkorn-Typeface) is used for the missing in the project glyphs.
 
