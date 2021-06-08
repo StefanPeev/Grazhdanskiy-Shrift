@@ -11,7 +11,6 @@ The project is still in a draft. Any contributions are well-come and highly appr
 Bibliography
 ------------
 [Шицгал А. Г. Русский гражданский шрифт. 1708–1958. M., „Искусство“, 1959](https://bibliotekus.artlebedev.ru/books/russkiy-grazhdanskiy-shrift/)
-
 [Шицгал А. Г. Русский типографский шрифт. Вопросы истории и практика применения. 1974.](https://bibliotekus.artlebedev.ru/books/russkiy-tipografskiy-shrift-1974/)
 
 Acknowledgements
