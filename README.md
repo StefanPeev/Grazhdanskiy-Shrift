@@ -8,6 +8,10 @@ NOTE: The font [Vollkorn](https://github.com/FAlthausen/Vollkorn-Typeface) is us
 
 The project is still in a draft. Any contributions are well-come and highly appreciated.
 
+Bibliography
+------------
+[Шицгал А. Г. Русский типографский шрифт. Вопросы истории и практика применения. 1974.](https://bibliotekus.artlebedev.ru/books/russkiy-tipografskiy-shrift-1974/)
+
 Acknowledgements
 ----------------
 
