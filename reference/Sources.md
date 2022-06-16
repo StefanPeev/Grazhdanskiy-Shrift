@@ -1,5 +1,7 @@
 # Sources
 
+## 1708
+
 + **Burkhard von Pürkenstein, Anton Ernst. Геометрия, по-славянски землемерие. Москва: [Московский Печатный двор], 1708.**. [НЭБ Книжные памятники](https://kp.rusneb.ru/item/material/geometria-slavenski-zemlemerie)
 
 + **Боргсдорф, Эрнст Фридрих фон. Побеждающая крепость к счастливому поздравлению славнои победы над Азовым и к счастливому въезду в Москву. / Его царскому величеству покорнеише поднесено от Эриста Фридериха барона, фон Боргсдорфа, цесарского величества Римского, настояще учрежденнаго началного инженера. В лето Господне, 1696.; Ныне же повелением его царскаго пресветлаго величества напечатася. - В царствующем великом граде Москве : [Московский Печатный двор], [дек.] 1708.** - 55, [1] c., [3] л. черт.; 8° (16 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341375#?page=1) | [НЭБ Книжные памятники](https://kp.rusneb.ru/item/material/pobezhdayushchaya-krepost-k-schastlivomu-pozdravleniyu-slavnoi-pobedy-nad-azovym-i-k-schastlivomu-vezdu-v-moskvu-3)
@@ -13,6 +15,8 @@
 + **Генералные сигналы, надзираемые во флоте его царскаго величества. - Москва: [Московский Печатный двор], 1708.** - 92 [14] стр. Размер 16° (10,4 х 6,6 х 0,9 см). [НЭБ Книжные памятники](https://kp.rusneb.ru/item/material/generalnye-signaly-nadziraemye-vo-flote-ego-carskago-velichestva)
 
 + **Римплер, Георг (1636-1683).  [Римплерова манира о строении крепостей]. - Москва : [Московский Печатный двор], [дек. 1708].** - 54, [4] с.; 8° (15 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341376#?page=1) | [НЭБ Книжные памятники](https://kp.rusneb.ru/item/material/rimplerova-manira-o-stroenii-krepostey-1) | [НЭБ Книжные памятники](https://kp.rusneb.ru/item/material/rimplerova-manira-o-stroenii-krepostey-2)
+
+## 1709
 
 + **Римплер, Георг (1636-1683). Римплерова манира о строении крепостеи. - [Москва] : [Московский Печатный двор], [янв.-февр. 1709].** - 27, [1] с., [8] л. черт.; 2° (31 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341378#?page=1)
 
@@ -42,6 +46,8 @@
 
 + **Кугорн, Минно ван (1641-1704). Новое крепостное строение на мокром или низком горизонте. : Которое на три маниры показуется во фортификование внутреннои величины. Французского роялного штиуголника, в чем крепость нынешних сухих при мокрых рвах обретается. : Купно же како ныне при море, или реках, крепости делаются, и коим образом тамо подобает строить. : Каждая манира атакована, и в пример положена, как в их крепостях на обе стороны, також и о проторях со французскою, или с нынешним крепостным строением. / Господина барона фон Кугорна, генерала артилерии, генерала порутчика инфантерии, генерала правителя крепостного строения Статов Недерляндских и губернатора Фландерского, и крепостеи при Шелде реке. В Левардене 1702 года. ; Напечатано же на россииском языке. Повелением царскаго величества. - В Москве : [Московский Печатный двор], нояб. 1709.** - [2], 10, 168 с., [14] л. черт.; 2° (32 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341386#?page=1)
 
+## 1710
+
 + **Кугорн, Минно ван (1641-1704). Новое крепостное строение на мокром или низком горизонте. : Которое на три маниры показуется во фортификование внутреннои величины. Французского роялного штиуголника, в чем крепость нынешних сухих при мокрых рвах обретается. : Купно же како ныне при море, или реках, крепости делаются, и коим образом тамо подобает строить. : Каждая манира атакована, и в пример положена, как в их крепостях на обе стороны, також и о проторях со французскою, или с нынешним крепостным строением. / Господина барона фон Кугорна, генерала артилерии, генерала порутчика инфантерии, генерала правителя крепостного строения Статов Недерляндских и губернатора Фландерского, и крепостеи при Шелде реке. В Левардене 1702 года. ; Напечатано же на россииском языке. Повелением царскаго величества. - В Москве : [Московский Печатный двор], сент. 1710.** [Internet Archive](https://archive.org/download/407FB7FDF9A8A9C5E1/407FB7FDF9A8A9C5E1.pdf)
 
 + **Азбука гражданская с нравоучениями. 1710.** [Президентская библиотека](https://www.prlib.ru/item/315769)
@@ -56,17 +62,31 @@
 
 + **Инструкции и артикулы военные: Надлежащие к россиискому флоту. / Напечатаны повелением царского величества. - В Москве : [Московский Печатный двор], апр. 1710.** - 48 с.; 8° (15 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341395?login=1#?page=1)
 
+## 1714
+
 + **[О порядке наследования в движимых и недвижимых имуществах] / [Указ Петра I от 23 марта 1714 г.].** - Печатано в Санктъпитербурхе, 24 марта 1714. - 1 л. [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341438#?page=2)
+
+## 1716
 
 + **Разговоры дружеския. Эразм Роттердамский (1469-1536); Erasmus Roterodamus. Окт. 1716.** [Российская национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/display.do?tabs=viewOnlineTab&gathStatTab=true&ct=display&fn=search&doc=07NLR_LMS009685504&indx=1&recIds=07NLR_LMS009685504&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&vl(1UIStartWith0)=contains&vl(1UIStartWith2)=contains&mode=Advanced&vid=07NLR_VU1&vl(267247768UI3)=lsr24&vl(199950180UI4)=all_items&vl(199950185UI5)=all_items&rfnGrp=show_only&vl(boolOperator1)=AND&tab=default_tab&vl(267247494UI2)=lsr24&vl(freeText3)=&vl(boolOperator3)=AND&vl(freeText1)=&dstmp=1525416486257&frbg=&vl(1UIStartWith3)=contains&vl(422913607UI6)=all_items&vl(1UIStartWith1)=contains&fctV=online_resources&srt=rank&vl(boolOperator0)=AND&fctN=facet_tlevel&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&vl(199949086UI1)=lsr24&vl(freeText2)=&vl(boolOperator2)=AND&vl(freeText0)=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0&dum=true&vl(199890271UI0)=lsr31)
 
+## 1717
+
 + **Шафиров, Петр Павлович (1669-1739). Разсуждение какие законные причины его царское величество Петр Первыи царь и повелитель всероссиискии и протчая, и протчая, и протчая: к начатию воины против короля Карола 12, шведского 1700 году имел, и кто из сих обоих потентатов, во время сеи пребывающеи воины, более умеренности и склонности к примирению показывал, и кто в продолжении онои, с толь великим разлитием крови християнскои, и разорением многих земель виновен; и с которои воюющеи страны та воина по правилам християнских и политичных народов более ведена. [Санктпетербург], [1717].** - [2], 10, [2], 128 с. [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341432#?page=2)
+
+## 1721
 
 + **Конволют. Указ об учреждении Берг-Коллегиума для ведения в оном дел о рудах и минералах. - [Санктпетербург], 4 сент. 1721** [т.е. после 1762 г.]. - 7, [1] с.; 2° (33 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01004131137#?page=1)
 
+## 1722
+
 + **Орбини Мавро [Мавроурбiнъ]. Кнiга iсторiографiя початiя имене, славы и разшiренiя народа славянского [...] ([СПб.], 1722).** [Internet Archive](https://archive.org/download/52B3EADAE4BC1FD13456/52B3EADAE4BC1FD13456.pdf)
 
+## 1724
+
 + **Разговор у адмирала с капитаном о команде. или. Полное учение како управлять караблем во всякия разныя случаи. : Начинающим в научение от части знающим в доучение; а не твердо памятным в подтверждение. Зотов, Конон Никитич (1690-1742). 16 авг. 1724.** [Российская национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/display.do?tabs=viewOnlineTab&gathStatTab=true&ct=display&fn=search&doc=07NLR_LMS009685932&indx=27&recIds=07NLR_LMS009685932&recIdxs=6&elementId=6&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&vl(1UIStartWith0)=contains&vl(1UIStartWith2)=contains&vid=07NLR_VU1&mode=Advanced&vl(267247768UI3)=lsr24&vl(199950180UI4)=all_items&vl(199950185UI5)=all_items&rfnGrp=show_only&tab=default_tab&vl(boolOperator1)=AND&vl(267247494UI2)=lsr24&vl(freeText3)=&vl(boolOperator3)=AND&vl(freeText1)=&dstmp=1525418974580&frbg=&vl(1UIStartWith3)=contains&vl(422913607UI6)=all_items&vl(1UIStartWith1)=contains&fctV=online_resources&srt=rank&vl(boolOperator0)=AND&fctN=facet_tlevel&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&vl(199949086UI1)=lsr24&vl(freeText2)=&vl(boolOperator2)=AND&vl(freeText0)=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0&vl(199890271UI0)=lsr31&dum=true)
+
+## 1727
 
 + **О платеже подушных денег. 27 мая 1727.** [Российская национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/display.do?tabs=viewOnlineTab&gathStatTab=true&ct=display&fn=search&doc=07NLR_LMS009685319&indx=2&recIds=07NLR_LMS009685319&recIdxs=1&elementId=1&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&vl(1UIStartWith0)=contains&vl(1UIStartWith2)=contains&mode=Advanced&vid=07NLR_VU1&vl(267247768UI3)=lsr24&vl(199950180UI4)=all_items&vl(199950185UI5)=all_items&rfnGrp=show_only&vl(boolOperator1)=AND&tab=default_tab&vl(267247494UI2)=lsr24&vl(freeText3)=&vl(boolOperator3)=AND&vl(freeText1)=&dstmp=1525416486257&frbg=&vl(1UIStartWith3)=contains&vl(422913607UI6)=all_items&vl(1UIStartWith1)=contains&fctV=online_resources&srt=rank&vl(boolOperator0)=AND&fctN=facet_tlevel&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&vl(199949086UI1)=lsr24&vl(freeText2)=&vl(boolOperator2)=AND&vl(freeText0)=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0&dum=true&vl(199890271UI0)=lsr31)
 
@@ -76,9 +96,13 @@
 
 + **О подаче прошений в Верховный Тайный Совет по субботам. 1 нояб. 1727.** [Российская национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/display.do?tabs=viewOnlineTab&gathStatTab=true&ct=display&fn=search&doc=07NLR_LMS009685329&indx=5&recIds=07NLR_LMS009685329&recIdxs=4&elementId=4&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&vl(1UIStartWith0)=contains&vl(1UIStartWith2)=contains&mode=Advanced&vid=07NLR_VU1&vl(267247768UI3)=lsr24&vl(199950180UI4)=all_items&vl(199950185UI5)=all_items&rfnGrp=show_only&vl(boolOperator1)=AND&tab=default_tab&vl(267247494UI2)=lsr24&vl(freeText3)=&vl(boolOperator3)=AND&vl(freeText1)=&dstmp=1525416486257&frbg=&vl(1UIStartWith3)=contains&vl(422913607UI6)=all_items&vl(1UIStartWith1)=contains&fctV=online_resources&srt=rank&vl(boolOperator0)=AND&fctN=facet_tlevel&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&vl(199949086UI1)=lsr24&vl(freeText2)=&vl(boolOperator2)=AND&vl(freeText0)=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0&dum=true&vl(199890271UI0)=lsr31)
 
+## 1728
+
 + **Краткое описание Комментариев Академии наук. - Напечатана в Санктпетербурге : При Академии наук, 1728.** - 4° (28 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003340381#?page=1)
 
 + **Герман, Яков (1678-1733). Сокращение математическое ко употреблению его величества императора всея России** / [Перевел с французскаго И. С. Горлицкий]. - Санктпетербург : Тип. Акад. наук, **1728-[1730]**. - 8°. [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003334657#?page=1)
+
+## Книги XVIII века
 
 + **Книги XVIII века на западноевропейских языках.** [Российская национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/search.do?ct=facet&fctN=facet_tlevel&fctV=online_resources&rfnGrp=show_only&frbg=&&fn=search&indx=1&dscnt=0&vl(1UIStartWith0)=contains&mode=Advanced&vid=07NLR_VU1&ct=search&srt=rank&tab=default_tab&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&dum=true&vl(freeText0)=%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8%20XVIII%20%D0%B2%D0%B5%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%85%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%D1%85&dstmp=1525420066618)
 
