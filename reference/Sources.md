@@ -84,9 +84,23 @@
 
 + **Эзоп. Эзоповы притчи. - Москва : [Московский Печатный двор], 1712.** - 162 c.: ил. Размер набора 94 x 55 мм. [Российская национальная библиотека](https://kp.rusneb.ru/item/reader/esopovy-pritchi-2)
 
+## 1713
+
++ **Книга Марсова или воинских дел от воиск царскаго величества россииских. По взятии преславных фортификацеи, и на разных местах храбрых баталии учиненных. Над воиски его королевскаго величества Свеиского. - Санктъпитербурх, 1713.** - 105 л. реляций, 3 л. портр., 53 л. черт., 21 л. грав., 10 рис. от руки. Размер набора 136/146 x 106/107 мм. [Российская национальная библиотека](https://kp.rusneb.ru/item/reader/kniga-marsova-ili-voinskih-del-ot-voisk-carskogo-velichestva-rossiiskih-1)
+
++ **Историа. О раззорении последнем святаго града Иерусалима, от римскаго цесаря Тита сына Веспасианова, вторая о взятии славнаго столичнаго града греческаго Константинополя [иже и Царь град] от турскаго султана Махомета Втораго. - Напечатана повелением царскаго величества в типографии Московскои. Москва, 1713.** - 307 с.: ил. Размер набора 114 x 75 мм. [Российская национальная библиотека](https://kp.rusneb.ru/item/reader/istoria-o-razzorenii-poslednem-svyatago-grada-ierusalima-ot-rimskago-cesarya-tita-syna-vespasianova-vtoraya-o-vzyatii-slavnago-stolichnago-grada-grecheskago-konstantinopolya-izhe-i-car-grad-ot-turskago-sultana-mahometa-vtorago-2)
+
++ **Календарь или месяцеслов христианский. По старому штилю, или изчислению. На лето от воплощения бога слова 1713. - Санктъпитербурх, 1713.** - 44 с.: ил. Размер рамки 156/160 x 66 мм. [Российская национальная библиотека](https://kp.rusneb.ru/item/reader/kalendar-ili-mesyacoslov-hristianskii-5)
+
 ## 1714
 
 + **[О порядке наследования в движимых и недвижимых имуществах] / [Указ Петра I от 23 марта 1714 г.].** - Печатано в Санктъпитербурхе, 24 марта 1714. - 1 л. [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341438#?page=2)
+
++ **Синопсис или Краткое собрание от различных летописцев о начале славянороссийского народа, и первоначальных князей богоспасаемого. града Киева о житии святого благоверного великого князя киевского и всея России первейшего самодержца. Владимира. И о наследниках благочестивой державы его Российской, даже до пресветлого и благочестивого государя нашего царя, и великого князя Федора Алексиевича. всея Великия, и Малыя, и Белыя России самодержца.** - Москва, 1714. - 431 с. Размер набора 113/115 x 70 мм. [Российская национальная библиотека](https://kp.rusneb.ru/item/reader/sinopsis-ili-kratkoe-sobranie-ot-razlichnyh-letopiscev-o-nachale-slavyanorossiiskago-naroda-i-pervonachalnyh-knyazeh-bogospasaemago-grada-kieva-o-zhitii-svyatago-blagovernago-velikago-knyazya-kievskago-i-vseya-rossii-perveishago-samoderzhca-vladimira-i-o-naslednikah-blagochestivyya-derzhavy-ego-rossiiskiya-dazhe-do-presvetlago-i-blagochestivago-gosudarya-nashego-carya-i-velikago-knyazya-feodora-aleksievicha-vseya-velikiya-i-malyya-i-belyya-rossii-samoderzhca)
+
+## 1715
+
++ **Петр I. Артикул воинский.  Купно с процесом надлежащии судящим.** - Печатано в Санктъпитербурхе, 1715. - 241 с. Размер набора 120/121 x 80 мм. [Российская национальная библиотека](https://kp.rusneb.ru/item/reader/artikul-voinskii-1)
 
 ## 1716
 
