@@ -106,17 +106,49 @@
 
 + **Разговоры дружеския. Эразм Роттердамский (1469-1536); Erasmus Roterodamus. Окт. 1716.** [Российская национальная библиотека](http://primo.nlr.ru/primo_library/libweb/action/display.do?tabs=viewOnlineTab&gathStatTab=true&ct=display&fn=search&doc=07NLR_LMS009685504&indx=1&recIds=07NLR_LMS009685504&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&vl(1UIStartWith0)=contains&vl(1UIStartWith2)=contains&mode=Advanced&vid=07NLR_VU1&vl(267247768UI3)=lsr24&vl(199950180UI4)=all_items&vl(199950185UI5)=all_items&rfnGrp=show_only&vl(boolOperator1)=AND&tab=default_tab&vl(267247494UI2)=lsr24&vl(freeText3)=&vl(boolOperator3)=AND&vl(freeText1)=&dstmp=1525416486257&frbg=&vl(1UIStartWith3)=contains&vl(422913607UI6)=all_items&vl(1UIStartWith1)=contains&fctV=online_resources&srt=rank&vl(boolOperator0)=AND&fctN=facet_tlevel&Submit=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&vl(199949086UI1)=lsr24&vl(freeText2)=&vl(boolOperator2)=AND&vl(freeText0)=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0&dum=true&vl(199890271UI0)=lsr31)
 
++ **Аль-Коран о Магомете или Закон турецкий. - [Санктпетербург], 1716**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/alkoran-o-magomete-ili-zakon-tureckii-1)
+
++ **Влакк, Адриан. Таблицы синусов, тангенсов, и секансов, и логарифма синусов и тангенсов. - [Москва, Типография В. Киприанова], 1716**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/tablicy-sinusov-tangensov-i-sekansov-i-logarifma-sinusov-i-tangensov)
+
 ## 1717
 
 + **Шафиров, Петр Павлович (1669-1739). Разсуждение какие законные причины его царское величество Петр Первыи царь и повелитель всероссиискии и протчая, и протчая, и протчая: к начатию воины против короля Карола 12, шведского 1700 году имел, и кто из сих обоих потентатов, во время сеи пребывающеи воины, более умеренности и склонности к примирению показывал, и кто в продолжении онои, с толь великим разлитием крови християнскои, и разорением многих земель виновен; и с которои воюющеи страны та воина по правилам християнских и политичных народов более ведена. [Санктпетербург], [1717].** - [2], 10, [2], 128 с. [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01003341432#?page=2)
 
+## 1718
+
++ **Календарь или месяцеслов. - [Санктпетербург], 1718**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/kalendar-ili-mesyacoslov-11)
+
++ **Пуфендорф, Самуэль фон. Введение, в историю европейскую. - [Санктпетербург], 1718**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/vvedenie-v-gistoriyu-evropeiskuyu-2)
+
++ **Варениус, Бернгард. Географиа генералная. - [Москва], 1718**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/geografia-generalnaya-1)
+
+## 1719
+
++ **Юности честное зерцало или Показание к житеискому обхождению. - [Санктпетербург], 1719**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/yunosti-chestnoe-zercalo-ili-pokazanie-k-zhiteiskomu-obhozhdeniyu-4)
+
++ **Петр I. Книга устав воинскии. - [Санктпетербург], 1719**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/kniga-ustav-voinskii-3)
+
+## 1720
+
++ **Книга Устав морскои. О всем что касается доброму управлению, в бытности флота на море. Напечатася повелением царскаго величества в Санктъпитербургскои типографии. - [Санктпетербург], 1720**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/kniga-ustav-morskoi-4)
+
++ **Петр I. Его царского величества Генералныи регламент или устав. - [Санктпетербург], 1720**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/ego-carskogo-velichestva-generalnyi-reglament-ili-ustav-2)
+
++ **Вергилий, Полидор. Полидора Виргилиа Урбинскаго осмь книг о изобретателех вещеи. - [Санктпетербург], 1720**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/polidora-virgilia-urbinskago-osm-knig-o-izobretateleh-veshchei)
+
 ## 1721
 
-+ **Конволют. Указ об учреждении Берг-Коллегиума для ведения в оном дел о рудах и минералах. - [Санктпетербург], 4 сент. 1721** [т.е. после 1762 г.]. - 7, [1] с.; 2° (33 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01004131137#?page=1)
++ **Конволют. Указ об учреждении Берг-Коллегиума для ведения в оном дел о рудах и минералах. - [Санктпетербург], 4 сент. 1721**. - 7, [1] с.; 2° (33 см). [Российская государственная библиотека](https://dlib.rsl.ru/viewer/01004131137#?page=1)
+
++ **Регламент, или Устав духовной коллегии. Благодатию и милосердием человеколюбца бога. Тщанием же и повелением, богом даннаго и богом умудренного государя нашего, царя и великаго князя Петра Перваго, всероссиискаго императора. И протчая, и протчая, и протчая. Уставленное в святои православнои россиискои церкви, духовное синедрион или синод. То есть, соборное духовных дел правительство. - [Санктпетербург], 1721**. [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/reglament-ili-ustav-duhovnoy-kollegii)
 
 ## 1722
 
-+ **Орбини Мавро [Мавроурбiнъ]. Кнiга iсторiографiя початiя имене, славы и разшiренiя народа славянского [...] ([СПб.], 1722).** [Internet Archive](https://archive.org/download/52B3EADAE4BC1FD13456/52B3EADAE4BC1FD13456.pdf)
++ **Орбини Мавро [Мавроурбiнъ]. Кнiга iсторiографiя початiя имене, славы и разшiренiя народа славянского [...] [Санктпетербург], 1722.** [Internet Archive](https://archive.org/download/52B3EADAE4BC1FD13456/52B3EADAE4BC1FD13456.pdf)
+
++ **Орбини, Мавро. Книга историография початия имене, славы и разширения народа славянского, и их цареи и владетелеи под многими имянами, и со многими царствиями, королевствами, и провинциами [Санктпетербург], 1722.** [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/kniga-istoriografiya-pochatiya-imene-slavy-i-razshireniya-naroda-slavyanskogo-i-ih-carei-i-vladetelei-pod-mnogimi-imyanami-i-so-mnogimi-carstviyami-korolevstvami-i-provinciami)
+
++ **Кантемир, Дмитрий Константинович. Книга систима или Состояние мухаммеданския религии [Санктпетербург], 1722.** [НЭБ. Книжные памятники](https://kp.rusneb.ru/item/reader/kniga-sistima-ili-sostoyanie-muhammedanskiya-religii)
 
 ## 1724
 
