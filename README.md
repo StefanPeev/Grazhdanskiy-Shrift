@@ -15,6 +15,7 @@ Bibliography
 + [Шицгал А. Г. Русский типографский шрифт. Вопросы истории и практика применения. 1974.](https://bibliotekus.artlebedev.ru/books/russkiy-tipografskiy-shrift-1974/)
 + [Дубина, Николай. Шрифт в России от Петра до наших дней. Часть I. Петровская реформа.](https://compuart.ru/article/9307)
 + [Чернявская, Юлия. Русская кириллица после реформы алфавита Петра I.](https://hsedesign.ru/project/79c759b6609444c09fc3e3efbd84dc04)
++ [Орехов, Борис. Кириллический шрифт «18 век».](https://nevmenandr.github.io/18cent-font/)
 
 Acknowledgements
 ----------------
