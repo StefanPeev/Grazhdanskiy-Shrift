@@ -1,6 +1,7 @@
 ![Sample Image](/images/GrazhdanskiyShrift_01.jpg)
 
-# Grazhdanskiy Shrift
+# Grazhdanskiy Shrift  
+
 **Grazhdanskiy Shrift** is an attempt to revive the font, which altered the structure of the Russian alphabet by the reform of Peter the Great.
 For further information read the book [Шицгал А. Г. Русский гражданский шрифт. 1708–1958. M., „Искусство“, 1959](https://bibliotekus.artlebedev.ru/books/russkiy-grazhdanskiy-shrift/), the articles of Vladimir Yefimov ["Civil Type and Kis Cyrillic"](https://typejournal.ru/en/articles/Civil-Type) and ["ДРАМАТИЧЕСКАЯ ИСТОРИЯ КИРИЛЛИЦЫ. ВЕЛИКИЙ ПЕТРОВСКИЙ ПЕРЕЛОМ"](https://www.paratype.ru/e-zine/issue04/peter1/peter1a.htm). See also the article of Юрий Герчук ["Кириллица в русской культуре"](https://typejournal.ru/articles/Cyrillic-in-Russian-Culture?fbclid=IwAR2JiNwfSVeK3t-v5gFIN8ZWnyav6P3E1xdYaS9IoK5lYxcr2X3t8Vxcfao).
 
@@ -40,18 +41,36 @@ Examples
 --------
 See [images](/images/) and [Gallery](/images/Gallery.md).
 
-Local Fonts Project
+Localfonts projects
 -------------------
+  
+The primarily aim of the project **LOCALFONTS** is to extend Cyrillic in fonts published under licenses which permit modifications and derivative works by adding Cyrillic local forms (Bulgarian, Serbian, Macedonian, Ukrainian etc.).  
+The **Localfonts** project consists of the following fonts:
 
-+ [Coval](https://github.com/StefanPeev/coval)
-+ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
-+ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
-+ [Perun](https://github.com/StefanPeev/Perun)
-+ [Pliska](https://github.com/StefanPeev/Pliska)
-+ [Veleka](https://github.com/StefanPeev/Veleka)
-+ [Common Sans](https://github.com/StefanPeev/Common-Sans)
-
++ [Acari Sans](https://github.com/StefanPeev/acari-sans/tree/local) 
++ [Common Sans](https://github.com/StefanPeev/Common-Sans)  
++ [Common Serif](https://github.com/StefanPeev/Common-Serif)  
++ [Coval](https://github.com/StefanPeev/coval)  
++ [Dinish](https://github.com/StefanPeev/dinish/tree/cyrillic)  
++ [Ezerovo](https://github.com/StefanPeev/Ezerovo)  
++ [Gabriela](https://github.com/StefanPeev/Gabriela)  
++ [Grazhdanskiy Shrift](https://github.com/StefanPeev/Grazhdanskiy-Shrift)  
++ [Involve](https://github.com/StefanPeev/Involve)  
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)  
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)  
++ [Listopad | Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Perun](https://github.com/StefanPeev/Perun)  
++ [Pliska](https://github.com/StefanPeev/Pliska)  
++ [Prolog | Libre Moretus](https://github.com/StefanPeev/libre-moretus/tree/prolog)  
++ [Repo](https://github.com/StefanPeev/Repo)  
++ [Scada | Cascade](https://github.com/StefanPeev/Scada-Cascade/tree/local)  
++ [Spritulo](https://github.com/StefanPeev/spritulo)  
++ [Terminalia](https://github.com/StefanPeev/Terminalia)  
++ [Veleka](https://github.com/StefanPeev/Veleka)  
+  
 Donations
 ---------
 
 If you apreciate the project, please feel free to donate: [PayPal](https://www.paypal.me/localfonts).
+
